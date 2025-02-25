@@ -9,8 +9,8 @@ def load_config():
     except FileNotFoundError:
         default_config = {
             "telegram": {
-                "bot_token": "YOUR_TOXI_BOT_TOKEN",
-                "chat_id": "YOUR_CHAT_ID",
+                "bot_token": "7923440418:AAEC1kgH13he8X0LMXXHzl-l_Gr1yMGAyoc",
+                "chat_id": "1836363133",
                 "api_id": 21324591,
                 "api_hash": "46db11d681dfb307167f4d2811e1934a",
                 "phone_number": "+917258065221"
