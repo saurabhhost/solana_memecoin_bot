@@ -11,9 +11,9 @@ def load_config():
             "telegram": {
                 "bot_token": "YOUR_TOXI_BOT_TOKEN",
                 "chat_id": "YOUR_CHAT_ID",
-                "api_id": 1234567,
-                "api_hash": "your_api_hash_here",
-                "phone_number": "+1234567890"
+                "api_id": 21324591,
+                "api_hash": "46db11d681dfb307167f4d2811e1934a",
+                "phone_number": "+917258065221"
             },
             # ... other config fields ...
         }
